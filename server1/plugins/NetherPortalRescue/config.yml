@@ -1,0 +1,20 @@
+config-version: 1
+properties:
+  # Show debug messages.
+  debug-messages: false
+
+  # Help the developer know how popular the plugin is.
+  use-metrics: true
+
+  # Check if a player's in a portal block when they log in. 
+  login-check: true
+  
+  # When a player uses a portal, we wait a few seconds and check if they're still in the portal. If so return them to their previous location. 
+  auto-rescue: true
+  
+  # Wait x seconds to see if they're still in the portal. 
+  wait-timer: 10
+  
+messages:
+  ReturnedToSpawn: "&7You were in a portal, teleporting you to spawn..."
+  ReturnToPrevLoc: "&cYou haven't left the portal, teleporting you back to your previous location."

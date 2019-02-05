@@ -1,0 +1,33 @@
+# 玩家需要拥有randomtp.use权限才能使用随机传送
+# 传送原点为(0,0)
+# 传送的范围，-3000 至 +3000
+bound: 3000
+# 指定随机范围
+# 世界名: "最小值,最大值"
+bounds:
+    world: "-300,400"
+    world_test: "-100,100"
+# 默认冷却时间（秒），拥有randomtp.nocool权限的玩家无视冷却.
+defaultCooldown: 10
+# 权限冷却时间
+# 当玩家拥有“randomtp.vip1”时冷却时间为8秒。
+# 玩家拥有多个权限节点时，冷却时间取最低的那个。
+cooldownPermissions: 
+  vip1: 8
+  vip2: 6
+  vip3: 4
+  vip4: 2
+  vip5: 0
+# 允许随机传送的世界名
+worlds:
+  - world
+  - world_res
+# 传送成功的提示
+tpdone: "&6[随机传送]&e随机传送到坐标&8(@x,@y,@z)"
+# 冷却的提示
+tpcooldown: "&6[随机传送]&c传送冷却&e@s&c秒"
+# 不允许在当前世界传送的提示
+notallowworld: "&6[随机传送]&c当前世界&8(@world)&c无法随机传送!"
+# 上天啊
+# 删除此行的话只会随机传送到地面上
+y: 255

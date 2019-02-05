@@ -1,0 +1,52 @@
+stake:
+  prize:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+    amount: 3
+  pot: false
+lives: 3
+bombs: 3
+power: 3
+minplayers: 2
+autostart:
+  enabled: true
+  delay: 30
+arena: default
+drops:
+  items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: TNT
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: BLAZE_POWDER
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    damage: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: POTION
+    damage: 34
+  chance: 0.1
+blocks:
+  drop:
+  - DIRT
+  destructable:
+  - DIRT
+timeout:
+  suddendeath: 300
+  gameover: 480
+protection:
+  enabled: true
+  explosion: true
+  blockplacing: true
+  blockdestroy: true
+  fire: true
+  pvp: true
+  damage: true
+initialitems:
+- ==: org.bukkit.inventory.ItemStack
+  type: TNT
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  type: BLAZE_POWDER
+  amount: 3

@@ -1,0 +1,10 @@
+CC:
+  config:
+    navigation-id: 347
+    inventory-name: '&9&lServer-Teleporter'
+  Commands:
+    Hub:
+      item-name: '&9&lHUB'
+      item-command: <player>/spawn
+      item-id: 120
+      item-id-number: 0

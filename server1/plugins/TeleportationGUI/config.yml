@@ -1,0 +1,14 @@
+prefix: '&7&l[&c&lTPGUI&7&l]'
+override_default_tp_command: false
+override_default_tptoggle_command: false
+guiname: '&6Tp GUI'
+tpmessage: '%prefix% &7Successfully teleported to &a%tp_player%.'
+tp_self_error: '&7&l(&c&l!&7&l) &7You cannot teleport to yourself!'
+tptoggle_enabled_message: '&7&l(&c&l!&7&l) &7Teleportation has been &aenabled!'
+tptoggle_disabled_message: '&7&l(&c&l!&7&l) &7Teleportation has been &4disabled!'
+tptoggle_is_enabled_message: '&7&l(&c&l!&7&l) &7That player has teleportation &4disabled!'
+skull_color: '&b'
+coord_display: true
+world_in_coord_display: true
+enable_item_to_open_gui: true
+item_to_open_gui: barrier

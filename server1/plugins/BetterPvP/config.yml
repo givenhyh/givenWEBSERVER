@@ -1,0 +1,25 @@
+Change "on" to "off" to disable a feature. Then restart the server.
+Minimap:on
+Minimap, Display Players:on
+Minimap, Display Mobs:on
+Minimap, Display Items:on
+Minimap, Display Other Entities:on
+Minimap, Display Other Teams:on
+Minimap, Cave Maps:on
+Waypoints:on
+Deathpoints:on
+Armour Status:on
+Armour Status, Arrows:on
+Armour Status, Show Enchants:on
+Potion Status:on
+XP Drops:on
+Better Sprint:on
+Toggle Sneak:on
+Quick Item Use:on
+Notifications:on
+Notifications, Hunger:on
+Notifications, HP:on
+Notifications, TNT:on
+Notifications, Arrow:on
+Notifications, Air:on
+Entity Info:on

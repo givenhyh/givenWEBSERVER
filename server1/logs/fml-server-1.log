@@ -1,0 +1,445 @@
+[20:28:24] [main/INFO] [FML/]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[20:28:25] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_181, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_181
+[20:28:25] [main/INFO] [STDERR/]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[20:28:25] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:28:25] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:28:25] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:28:25] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:28:25] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:27] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:27] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:27] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:28:27] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[20:28:27] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[20:28:28] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:28:35] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[20:28:35] [Server thread/INFO] [FML/]: MinecraftForge v10.13.4.1614 Initialized
+[20:28:35] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[20:28:36] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[20:28:36] [Server thread/INFO] [FML/]: Config directory created successfully
+[20:28:36] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:28:36] [Server thread/INFO] [FML/]: Searching C:\Users\Administrator\Documents\GitHub\givenWEBSERVER\server1\mods for mods
+[20:28:36] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[20:28:36] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at CLIENT
+[20:28:36] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at SERVER
+[20:28:36] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[20:28:36] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[20:28:36] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[20:28:36] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[20:28:36] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[20:28:36] [Server thread/INFO] [FML/]: Applying holder lookups
+[20:28:36] [Server thread/INFO] [FML/]: Holder lookups applied
+[20:28:36] [Server thread/INFO] [FML/]: Injecting itemstacks
+[20:28:36] [Server thread/INFO] [FML/]: Itemstack injection complete
+[20:28:37] [Server thread/INFO] [Minecraft/]: This server is running KCauldron version 1.7.10-R0.1-SNAPSHOT (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[20:28:37] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[20:28:37] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[20:28:38] [Server thread/INFO] [FML/]: Injecting itemstacks
+[20:28:38] [Server thread/INFO] [FML/]: Itemstack injection complete
+[20:28:38] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[20:28:40] [Server thread/INFO] [/]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[20:28:40] [Server thread/INFO] [/]: Loaded inheritance map of 895 classes
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:28:40] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:28:40] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:28:40] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:28:40] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:28:40] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:28:40] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:40] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:28:40] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:28:40] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[20:28:40] [Server thread/WARN] [FML/]: =============================================================
+[20:28:42] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins\【异步WE】AsyncWorldEdit.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: org/primesoft/asyncworldedit/injector/classfactory/IClassFactory
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:149) ~[JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:334) ~[SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:256) [SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugins(CraftServer.java:320) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.world.storage.SaveHandler.initBukkitData(SaveHandler.java:461) [ayq.class:?]
+	at net.minecraft.world.storage.SaveHandler.func_75757_d(SaveHandler.java:174) [ayq.class:?]
+	at net.minecraft.world.World.<init>(World.java:360) [ahb.class:?]
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:160) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:367) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:336) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.NoClassDefFoundError: org/primesoft/asyncworldedit/injector/classfactory/IClassFactory
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_181]
+	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_181]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:189) ~[PluginClassLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:145) ~[JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	... 11 more
+[20:28:42] [Server thread/INFO] [shend.ShendHealth/]: [ShendHealth] Loading ShendHealth v1.0.0
+[20:28:42] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v5.6.3
+[20:28:42] [Server thread/INFO] [com.mcjtf.SafeLogin.Main/]: [SafeLogin] Loading SafeLogin v1.1.0
+[20:28:42] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] Loading BeeSwitch v1.0-RELEASE
+[20:28:42] [Server thread/INFO] [cn.jiongjionger.AutoSwitchTools.Main/]: [AutoSwitchTools] Loading AutoSwitchTools v1.0
+[20:28:42] [Server thread/INFO] [com.caizhong3.worldfly/]: [worldfly] Loading worldfly v1.0
+[20:28:42] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials vPre2.14.1.3
+[20:28:42] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Loading GroupManager v2.0 (2.12.1) (Phoenix)
+[20:28:42] [Server thread/INFO] [Deadhunger.KV4M/]: [DeadHunger] Loading DeadHunger v0.1
+[20:28:42] [Server thread/INFO] [com.plotsquared.bukkit.BukkitMain/]: [PlotSquared] Loading PlotSquared v3.5.0-SNAPSHOT-95f8aaa
+[20:28:42] [Server thread/INFO] [me.dpohvar.powernbt.PowerNBT/]: [PowerNBT] Loading PowerNBT v0.8.9.2
+[20:28:42] [Server thread/INFO] [com.sleelin.pvptoggle.PvPToggle/]: [PvPToggle] Loading PvPToggle v3.0.0
+[20:28:42] [Server thread/INFO] [com.zelnehlun.betterpvp.BetterPvP/]: [BetterPvP] Loading BetterPvP v1.0.7
+[20:28:42] [Server thread/INFO] [com.qq.q1277832129.custompoint.Main/]: [CustomPoint] Loading CustomPoint v1.0.0
+[20:28:42] [Server thread/INFO] [/]: 插件加载成功
+[20:28:42] [Server thread/INFO] [com.comphenix.protocol.ProtocolLibrary/]: [ProtocolLib] Loading ProtocolLib v3.7.0-BETA
+[20:28:44] [Server thread/INFO] [com.onarandombox.MultiverseCore.MultiverseCore/]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-SNAPSHOT-b725
+[20:28:44] [Server thread/INFO] [indi.tshoiasc.ntb.NtbMain/]: [NothingToBreak] Loading NothingToBreak v1.0.0
+[20:28:44] [Server thread/INFO] [com.ktar5.infoboard.InfoBoard/]: [InfoBoardReborn] Loading InfoBoardReborn v1.0.0
+[20:28:44] [Server thread/INFO] [com.cyprias.NetherPortalRescue.Plugin/]: [NetherPortalRescue] Loading NetherPortalRescue v1.1.1
+[20:28:44] [Server thread/INFO] [me.Fltoto_LRFI.GJ.Main/]: [GJ] Loading GJ v1.0
+[20:28:44] [Server thread/INFO] [plugin.sw.creeper.Main/]: [SurvivalWar] Loading SurvivalWar v1.7
+[20:28:44] [Server thread/INFO] [info.TrenTech.EasyKits.EasyKits/]: [EasyKits] Loading EasyKits v1.4.7
+[20:28:44] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Loading Residence v4.7.2.3
+[20:28:44] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Loading EssentialsProtect vPre2.14.1.3
+[20:28:44] [Server thread/INFO] [com.minecreatr.trails.Trails/]: [BasicTrails] Loading BasicTrails v0.0.1e
+[20:28:44] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Loading EssentialsChat vPre2.14.1.3
+[20:28:44] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vPre2.14.1.3
+[20:28:44] [Server thread/INFO] [cn.mcraft.AutoRespawn.Main/]: [AutoRespawn] Loading AutoRespawn v2.1
+[20:28:44] [Server thread/INFO] [io.github.hammer354.antideathbug.AntiDeathBug/]: [AntiDeathBug] Loading AntiDeathBug v1.1.1
+[20:28:44] [Server thread/INFO] [me.lord.main.Core/]: [TeleportationGUI] Loading TeleportationGUI v1.21
+[20:28:44] [Server thread/INFO] [me.devilbaby.RandomTp/]: [RandomTp] Loading RandomTp v1.1
+[20:28:44] [Server thread/INFO] [me.dani7998.ClockCommand.ClockCommand/]: [ClockCommand] Loading ClockCommand v1.0
+[20:28:44] [Server thread/INFO] [me.nikl.calendarevents.Main/]: [CalendarEvents] Loading CalendarEvents v1.3.0
+[20:28:44] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn vPre2.14.1.3
+[20:28:44] [Server thread/INFO] [io.github.mdsimmo.bomberman.Bomberman/]: [Bomberman] Loading Bomberman v0.0.3d
+[20:28:44] [Server thread/INFO] [com.plotsquared.bukkit.BukkitMain/]: [PlotSquared] Enabling PlotSquared v3.5.0-SNAPSHOT-95f8aaa
+[20:28:45] [Server thread/INFO] [/]: Creating tables
+[20:28:46] [Server thread/INFO] [/]: Not running Spigot. Skipping EntitySpawnListener event.
+[20:28:46] [Server thread/INFO] [/]: [P2] Metrics enabled.
+[20:28:46] [Server thread/INFO] [/]: [P2]  PlotSquared is using online UUIDs
+[20:28:46] [Server thread/INFO] [/]: class com.plotsquared.bukkit.util.SendChunk does not support ( 1,7,10 )
+[20:28:48] [Server thread/INFO] [/]: PlotSquared hooked into WorldEdit.
+[20:28:48] [Server thread/INFO] [/]: Incompatible version of WorldEdit, please upgrade: http://builds.enginehub.org/job/worldedit?branch=master
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: plot-expiry, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: kill-road-mobs, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: worldedit-restrictions, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: database-purger, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: economy, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: block-cache, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: kill-road-vehicles, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: persistent-meta, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: ban-deleter, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: updater, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: database, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: plotme-converter, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: permission-cache, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: rating-cache, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: comment-notifier, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: metrics, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: chunk-processor, Value: false
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: uuid-cache, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: events, Value: true
+[20:28:48] [Server thread/INFO] [/]: [P2] Key: commands, Value: true
+[20:28:48] [Server thread/INFO] [/]: PlotSquared is now enabled
+[20:28:48] [Server thread/INFO] [/]: [P2] Metrics enabled.
+[20:28:48] [Server thread/INFO] [com.comphenix.protocol.ProtocolLibrary/]: [ProtocolLib] Enabling ProtocolLib v3.7.0-BETA
+[20:28:48] [Server thread/INFO] [com.comphenix.protocol.ProtocolLibrary/]: [ProtocolLib] Started structure compiler thread.
+[20:28:49] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@17f74a6)
+[20:28:49] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@17f74a6)
+[20:28:49] [Server thread/INFO] [/]: BukkitPlotGenerator does not fully support: null
+[20:28:49] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@17f74a6)
+[20:28:49] [Server thread/INFO] [/]: BukkitPlotGenerator does not fully support: null
+[20:28:49] [Server thread/INFO] [/]: BukkitPlotGenerator does not fully support: null
+[20:28:59] [Server thread/INFO] [shend.ShendHealth/]: [ShendHealth] Enabling ShendHealth v1.0.0
+[20:28:59] [Server thread/INFO] [Minecraft/]: ShendHealth 成功启动！
+[20:28:59] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v5.6.3
+[20:28:59] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Default configuration file written: config.yml
+[20:29:00] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Updated config file
+[20:29:00] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[20:29:00] [Server thread/INFO] [com.mcjtf.SafeLogin.Main/]: [SafeLogin] Enabling SafeLogin v1.1.0
+[20:29:00] [Server thread/WARN] [com.mcjtf.SafeLogin.Main/]: [SafeLogin] Default system encoding may have misread config.yml from plugin jar
+[20:29:00] [Server thread/INFO] [/]: [SafeLogin] 插件已加载.
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] Enabling BeeSwitch v1.0-RELEASE
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] 蜜蜂切换加载成功
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] ====================
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] 蜜蜂工作室 BeeStudio
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch]       荣誉出品
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] 讨论QQ群：367428642
+[20:29:00] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] ====================
+[20:29:00] [Server thread/INFO] [cn.jiongjionger.AutoSwitchTools.Main/]: [AutoSwitchTools] Enabling AutoSwitchTools v1.0
+[20:29:00] [Server thread/INFO] [Minecraft/]: [AutoSwitchTools]东方大陆原创插件，你可以免费使用，但是严禁贩卖！
+[20:29:00] [Server thread/INFO] [Minecraft/]: [AutoSwitchTools]插件作者：jiongjionger
+[20:29:00] [Server thread/ERROR] [Minecraft/]: Cannot load plugins\AutoSwitchTools\config.yml
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '?' (0xFFFD) special characters are not allowed
+in "<string>", position 134
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[YamlConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[FileConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[FileConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:180) [YamlConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPlugin.reloadConfig(JavaPlugin.java:183) [JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPlugin.getConfig(JavaPlugin.java:157) [JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at cn.jiongjionger.AutoSwitchTools.Main.LoadConfig(Main.java:224) [%5B自动切换工具%5DAutoSwitchTools.jar:?]
+	at cn.jiongjionger.AutoSwitchTools.Main.onEnable(Main.java:42) [%5B自动切换工具%5DAutoSwitchTools.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) [JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:415) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:349) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:511) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:485) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:336) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	... 18 more
+[20:29:00] [Server thread/WARN] [cn.jiongjionger.AutoSwitchTools.Main/]: [AutoSwitchTools] Default system encoding may have misread config.yml from plugin jar
+[20:29:00] [Server thread/ERROR] [cn.jiongjionger.AutoSwitchTools.Main/]: [AutoSwitchTools] Cannot load configuration from jar
+org.bukkit.configuration.InvalidConfigurationException: unacceptable character '?' (0xFFFD) special characters are not allowed
+in "<string>", position 138
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[YamlConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPlugin.reloadConfig(JavaPlugin.java:209) [JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPlugin.getConfig(JavaPlugin.java:157) [JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at cn.jiongjionger.AutoSwitchTools.Main.LoadConfig(Main.java:224) [%5B自动切换工具%5DAutoSwitchTools.jar:?]
+	at cn.jiongjionger.AutoSwitchTools.Main.onEnable(Main.java:42) [%5B自动切换工具%5DAutoSwitchTools.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) [JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:415) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:349) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:511) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:485) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:336) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: org.yaml.snakeyaml.reader.ReaderException: special characters are not allowed
+	at org.yaml.snakeyaml.reader.StreamReader.checkPrintable(StreamReader.java:70) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.reader.StreamReader.<init>(StreamReader.java:50) ~[StreamReader.class:?]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399) ~[Yaml.class:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[YamlConfiguration.class:1.7.10-R0.1-SNAPSHOT]
+	... 15 more
+[20:29:00] [Server thread/INFO] [com.caizhong3.worldfly/]: [worldfly] Enabling worldfly v1.0
+[20:29:00] [Server thread/INFO] [/]: nameList不为空且为[dp, dp2]
+[20:29:00] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials vPre2.14.1.3
+[20:29:00] [Server thread/INFO] [Essentials/]: Bukkit version format changed. Version not checked.
+[20:29:00] [Server thread/INFO] [Essentials/]: 1.7.10-R0.1-SNAPSHOT (MC: 1.7.10)
+[20:29:00] [Server thread/INFO] [Essentials/]: 1.7.10-R0.1-SNAPSHOT
+[20:29:01] [Server thread/INFO] [Essentials/]: Creating config from template: C:\Users\Administrator\Documents\GitHub\givenWEBSERVER\server1\plugins\Essentials\config.yml
+[20:29:01] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Starting Essentials ban format conversion
+[20:29:01] [Server thread/INFO] [Essentials/]: Using locale zh
+[20:29:01] [pool-9-thread-1/INFO] [Essentials/]: Creating empty config: C:\Users\Administrator\Documents\GitHub\givenWEBSERVER\server1\plugins\Essentials\upgrades-done.yml
+[20:29:01] [Server thread/INFO] [Essentials/]: 从模版:C:\Users\Administrator\Documents\GitHub\givenWEBSERVER\server1\plugins\Essentials\worth.yml 创建配置
+[20:29:01] [Server thread/INFO] [Essentials/]: Using locale zh
+[20:29:02] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] This plugin collects minimal statistic data and sends it to http://metrics.essentials3.net.
+[20:29:02] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] You can opt out, disabling metrics for all plugins, by running /essentials opt-out
+[20:29:02] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] This will start 5 minutes after the first admin/op joins.
+[20:29:02] [Server thread/INFO] [Essentials/]: Essentials: Using config file enhanced permissions.
+[20:29:02] [Server thread/INFO] [Essentials/]: Permissions listed in as player-commands will be given to all users.
+[20:29:02] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Enabling GroupManager v2.0 (2.12.1) (Phoenix)
+[20:29:02] [Server thread/INFO] [/]: GroupManager - INFO - World Found: world
+[20:29:02] [Server thread/INFO] [/]: GroupManager - INFO - Superperms support enabled.
+[20:29:02] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[20:29:02] [Server thread/INFO] [/]: GroupManager - INFO - Backups will be retained for 24 hours!
+[20:29:02] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is enabled!
+[20:29:02] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[20:29:02] [Server thread/INFO] [Essentials/]: Essentials: Using GroupManager based permissions.
+[20:29:02] [Server thread/INFO] [Deadhunger.KV4M/]: [DeadHunger] Enabling DeadHunger v0.1
+[20:29:02] [Server thread/INFO] [Deadhunger.KV4M/]: [DeadHunger] DeadHunger V1.0.0 Loading
+[20:29:02] [Server thread/INFO] [Deadhunger.KV4M/]: [DeadHunger] 创建新的配置文件夹
+[20:29:02] [Server thread/INFO] [me.dpohvar.powernbt.PowerNBT/]: [PowerNBT] Enabling PowerNBT v0.8.9.2
+[20:29:03] [Server thread/INFO] [com.sleelin.pvptoggle.PvPToggle/]: [PvPToggle] Enabling PvPToggle v3.0.0
+[20:29:03] [Server thread/INFO] [Minecraft/]: [PvPToggle] Loading...
+[20:29:03] [Server thread/INFO] [Minecraft/]: [PvPToggle] found and loaded world world
+[20:29:03] [Server thread/INFO] [Minecraft/]: [PvPToggle] found and loaded world DIM1
+[20:29:03] [Server thread/INFO] [Minecraft/]: [PvPToggle] found and loaded world DIM-1
+[20:29:03] [Server thread/INFO] [Minecraft/]: [PvPToggle] Using SuperPerms for permissions checking
+[20:29:03] [Server thread/INFO] [/]: [PvPToggle] v3.0.0 enabled!
+[20:29:03] [Server thread/INFO] [com.zelnehlun.betterpvp.BetterPvP/]: [BetterPvP] Enabling BetterPvP v1.0.7
+[20:29:03] [Server thread/INFO] [com.qq.q1277832129.custompoint.Main/]: [CustomPoint] Enabling CustomPoint v1.0.0
+[20:29:03] [Server thread/INFO] [com.onarandombox.MultiverseCore.MultiverseCore/]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-SNAPSHOT-b725
+[20:29:03] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Cannot load worlds.yml
+[20:29:03] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 2334198965543725805
+[20:29:03] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[20:29:03] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Original Location: X: -256 Y: 64 Z: 24 P: 0 Y: 0 
+[20:29:03] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] New Spawn for 'world' is located at: world:-248.50,64.00,30.50:0.00:0.00
+[20:29:03] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'DIM1' - Env: THE_END - Type: NORMAL & seed: 2334198965543725805
+[20:29:03] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[20:29:03] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+[20:29:04] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] New Spawn for 'DIM1' is located at: DIM1:0.00,65.00,0.00:0.00:0.00
+[20:29:04] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'DIM-1' - Env: NETHER - Type: NORMAL & seed: 2334198965543725805
+[20:29:04] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[20:29:04] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+[20:29:04] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] New Spawn for 'DIM-1' is located at: DIM-1:0.00,36.00,0.00:0.00:0.00
+[20:29:04] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[20:29:05] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 2.5.0-SNAPSHOT-b725 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[20:29:05] [Server thread/INFO] [indi.tshoiasc.ntb.NtbMain/]: [NothingToBreak] Enabling NothingToBreak v1.0.0
+[20:29:05] [Server thread/INFO] [indi.tshoiasc.ntb.NtbMain/]: [NothingToBreak] [NothingToBreak] 已加载
+[20:29:05] [Server thread/INFO] [com.ktar5.infoboard.InfoBoard/]: [InfoBoardReborn] Enabling InfoBoardReborn v1.0.0
+[20:29:05] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling InfoBoardReborn v1.0.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at com.ktar5.infoboard.API.Vault.setupEconomy(Vault.java:58) ~[?:?]
+	at com.ktar5.infoboard.API.Vault.load(Vault.java:48) ~[?:?]
+	at com.ktar5.infoboard.InfoBoard.onEnable(InfoBoard.java:113) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:415) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:349) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:511) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:485) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:336) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[20:29:05] [Server thread/INFO] [com.cyprias.NetherPortalRescue.Plugin/]: [NetherPortalRescue] Enabling NetherPortalRescue v1.1.1
+[20:29:05] [Server thread/INFO] [NetherPortalRescue/]: &4[&bNPR&4]&r &4[&bNPR&4]&r Copying config.yml to disk.
+[20:29:05] [Server thread/INFO] [me.Fltoto_LRFI.GJ.Main/]: [GJ] Enabling GJ v1.0
+[20:29:05] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling GJ v1.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/economy/Economy
+	at me.Fltoto_LRFI.GJ.Main.initVault(Main.java:49) ~[?:?]
+	at me.Fltoto_LRFI.GJ.Main.onEnable(Main.java:26) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316) ~[JavaPlugin.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:368) [JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:410) [SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:415) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:349) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.server.MinecraftServer.func_71243_i(MinecraftServer.java:511) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:485) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:445) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:336) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+[20:29:05] [Server thread/INFO] [plugin.sw.creeper.Main/]: [SurvivalWar] Enabling SurvivalWar v1.7
+[20:29:05] [Server thread/INFO] [plugin.sw.creeper.Main/]: [SurvivalWar] 插件已加载！
+[20:29:05] [Server thread/INFO] [info.TrenTech.EasyKits.EasyKits/]: [EasyKits] Enabling EasyKits v1.4.7
+[20:29:05] [Server thread/WARN] [Minecraft/]: [EasyKits] Vault not found! Economy support disabled!
+[20:29:05] [Server thread/WARN] [Minecraft/]: [EasyKits] Creating database!
+[20:29:05] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Enabling Residence v4.7.2.3
+[20:29:06] [Server thread/INFO] [/]: [Residence] Wrote default config...
+[20:29:06] [Server thread/INFO] [/]: [Residence] Wrote default flags...
+[20:29:06] [Server thread/INFO] [/]: [Residence] Wrote default groups...
+[20:29:06] [Server thread/ERROR] [Minecraft/]: Your server can't fully suport action bar messages. They will be shown in chat instead.
+[20:29:06] [Server thread/ERROR] [Minecraft/]: Your server can't fully suport title messages. They will be shown in chat instead.
+[20:29:06] [Server thread/INFO] [/]: [Residence] Permissions plugin NOT FOUND!
+[20:29:07] [Server thread/INFO] [/]: [Residence] Scanning for economy systems...
+[20:29:07] [Server thread/INFO] [/]: [Residence] Vault NOT found!
+[20:29:07] [Server thread/INFO] [/]: [Residence] BOSEconomy NOT found!
+[20:29:07] [pool-9-thread-1/INFO] [Essentials/]: 创建空的配置:C:\Users\Administrator\Documents\GitHub\givenWEBSERVER\server1\plugins\Essentials\userdata\dace5851-6a0a-3eb4-ad2b-05ba8749e3e6.yml
+[20:29:07] [Server thread/INFO] [/]: [Residence] Successfully linked with Essentials Economy!
+[20:29:07] [Server thread/INFO] [/]: [Residence] Loading (0) player data
+[20:29:07] [Server thread/INFO] [/]: [Residence] Player data loaded: 0
+[20:29:07] [Server thread/WARN] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Save directory does not exist...
+[20:29:07] [Server thread/WARN] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Please restart server
+[20:29:07] [Server thread/INFO] [/]: [Residence] Found WorldEdit
+[20:29:08] [Server thread/INFO] [/]: [Residence] Enabled! Version 4.7.2.3 by Zrips
+[20:29:08] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Enabling EssentialsProtect vPre2.14.1.3
+[20:29:08] [Server thread/INFO] [com.minecreatr.trails.Trails/]: [BasicTrails] Enabling BasicTrails v0.0.1e
+[20:29:08] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Enabling EssentialsChat vPre2.14.1.3
+[20:29:08] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vPre2.14.1.3
+[20:29:08] [Server thread/INFO] [cn.mcraft.AutoRespawn.Main/]: [AutoRespawn] Enabling AutoRespawn v2.1
+[20:29:08] [Server thread/INFO] [cn.mcraft.AutoRespawn.Main/]: [AutoRespawn] 启动成功(Spigot)
+[20:29:08] [Server thread/INFO] [io.github.hammer354.antideathbug.AntiDeathBug/]: [AntiDeathBug] Enabling AntiDeathBug v1.1.1
+[20:29:09] [Server thread/INFO] [io.github.hammer354.antideathbug.AntiDeathBug/]: [AntiDeathBug] 统计信息已启动
+[20:29:09] [Server thread/INFO] [io.github.hammer354.antideathbug.AntiDeathBug/]: [AntiDeathBug] 防死亡Bug插件已启用
+[20:29:09] [Server thread/INFO] [me.lord.main.Core/]: [TeleportationGUI] Enabling TeleportationGUI v1.21
+[20:29:09] [Server thread/INFO] [me.devilbaby.RandomTp/]: [RandomTp] Enabling RandomTp v1.1
+[20:29:09] [Server thread/INFO] [me.dani7998.ClockCommand.ClockCommand/]: [ClockCommand] Enabling ClockCommand v1.0
+[20:29:09] [Server thread/INFO] [ClockCommand/]: Laden beendet - Plugin by dani7998
+[20:29:09] [Server thread/INFO] [me.nikl.calendarevents.Main/]: [CalendarEvents] Enabling CalendarEvents v1.3.0
+[20:29:09] [Server thread/WARN] [Minecraft/]: Your version is not (jet) supported to send Titles or actionbars!
+[20:29:09] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn vPre2.14.1.3
+[20:29:09] [Server thread/INFO] [io.github.mdsimmo.bomberman.Bomberman/]: [Bomberman] Enabling Bomberman v0.0.3d
+[20:29:09] [Server thread/INFO] [/]: No economy detected!
+[20:29:10] [Server thread/INFO] [/]: GroupManager - INFO - Bukkit Permissions Updated!
+[20:29:12] [Craft Scheduler Thread - 4/INFO] [/]: [Residence] Failed to check for Residence update on spigot web page.
+[20:29:14] [Server thread/INFO] [/]: Starting UUID caching
+[20:29:15] [Craft Scheduler Thread - 4/INFO] [/]: [P2] Starting player data caching for: world
+[20:29:15] [Craft Scheduler Thread - 4/INFO] [/]: Fast mode UUID caching enabled!
+[20:29:15] [Craft Scheduler Thread - 4/INFO] [/]: [P2] Cached a total of: 0 UUIDs
+[20:29:19] [Craft Scheduler Thread - 4/INFO] [Minecraft/]: [PvPToggle] Found new version: 3.0.0 (you have [v3.0.0])
+[20:29:19] [Craft Scheduler Thread - 4/INFO] [Minecraft/]: [PvPToggle] Visit http://dev.bukkit.org/server-mods/PvPToggle/ to download!
+[20:29:19] [Craft Scheduler Thread - 12/INFO] [/]: You are running the latest version of PlotSquared!
+[20:29:19] [Craft Scheduler Thread - 12/INFO] [/]: Thanks for installing PlotSquared!
+[20:29:20] [KCauldron version retrievier/WARN] [KCauldron: KVersionRetriever/]: Error occured during retriving version
+java.lang.Throwable
+	at kcauldron.KLog.log(KLog.java:30) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.KLog.warning(KLog.java:41) [KLog.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.uncaughtException(KVersionRetriever.java:114) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.check(KVersionRetriever.java:94) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at kcauldron.updater.KVersionRetriever.run(KVersionRetriever.java:69) [KVersionRetriever.class:1.7.10-R0.1-SNAPSHOT]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.lang.IllegalStateException: Status code isn't OK
+	... 3 more
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:22] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[20:29:41] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] World 'DIM1' was unloaded from memory.
+[20:29:41] [Server thread/INFO] [FML/]: Unloading dimension 1
+[20:29:59] [Server thread/INFO] [/]: CONSOLE: Stopping the server..
+[20:29:59] [Server thread/INFO] [io.github.mdsimmo.bomberman.Bomberman/]: [Bomberman] Disabling Bomberman v0.0.3d
+[20:29:59] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Disabling EssentialsSpawn vPre2.14.1.3
+[20:29:59] [Server thread/INFO] [me.nikl.calendarevents.Main/]: [CalendarEvents] Disabling CalendarEvents v1.3.0
+[20:29:59] [Server thread/INFO] [me.dani7998.ClockCommand.ClockCommand/]: [ClockCommand] Disabling ClockCommand v1.0
+[20:29:59] [Server thread/INFO] [me.devilbaby.RandomTp/]: [RandomTp] Disabling RandomTp v1.1
+[20:29:59] [Server thread/INFO] [me.lord.main.Core/]: [TeleportationGUI] Disabling TeleportationGUI v1.21
+[20:29:59] [Server thread/INFO] [io.github.hammer354.antideathbug.AntiDeathBug/]: [AntiDeathBug] Disabling AntiDeathBug v1.1.1
+[20:29:59] [Server thread/INFO] [io.github.hammer354.antideathbug.AntiDeathBug/]: [AntiDeathBug] 防死亡Bug插件已禁用
+[20:29:59] [Server thread/INFO] [cn.mcraft.AutoRespawn.Main/]: [AutoRespawn] Disabling AutoRespawn v2.1
+[20:29:59] [Server thread/INFO] [com.earth2me.essentials.antibuild.EssentialsAntiBuild/]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vPre2.14.1.3
+[20:29:59] [Server thread/INFO] [com.earth2me.essentials.chat.EssentialsChat/]: [EssentialsChat] Disabling EssentialsChat vPre2.14.1.3
+[20:29:59] [Server thread/INFO] [com.minecreatr.trails.Trails/]: [BasicTrails] Disabling BasicTrails v0.0.1e
+[20:29:59] [Server thread/INFO] [com.earth2me.essentials.protect.EssentialsProtect/]: [EssentialsProtect] Disabling EssentialsProtect vPre2.14.1.3
+[20:29:59] [Server thread/INFO] [com.bekvon.bukkit.residence.ResidenceCommandListener/]: [Residence] Disabling Residence v4.7.2.3
+[20:29:59] [Server thread/INFO] [/]: [Residence] Disabled!
+[20:29:59] [Server thread/INFO] [info.TrenTech.EasyKits.EasyKits/]: [EasyKits] Disabling EasyKits v1.4.7
+[20:29:59] [Server thread/INFO] [plugin.sw.creeper.Main/]: [SurvivalWar] Disabling SurvivalWar v1.7
+[20:29:59] [Server thread/INFO] [plugin.sw.creeper.Main/]: [SurvivalWar] 插件已卸载！
+[20:29:59] [Server thread/INFO] [me.Fltoto_LRFI.GJ.Main/]: [GJ] Disabling GJ v1.0
+[20:29:59] [Server thread/INFO] [com.cyprias.NetherPortalRescue.Plugin/]: [NetherPortalRescue] Disabling NetherPortalRescue v1.1.1
+[20:29:59] [Server thread/INFO] [com.ktar5.infoboard.InfoBoard/]: [InfoBoardReborn] Disabling InfoBoardReborn v1.0.0
+[20:29:59] [Server thread/INFO] [indi.tshoiasc.ntb.NtbMain/]: [NothingToBreak] Disabling NothingToBreak v1.0.0
+[20:29:59] [Server thread/INFO] [indi.tshoiasc.ntb.NtbMain/]: [NothingToBreak] [NothingToBreak] 已卸载
+[20:29:59] [Server thread/INFO] [com.onarandombox.MultiverseCore.MultiverseCore/]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-SNAPSHOT-b725
+[20:29:59] [Server thread/INFO] [com.comphenix.protocol.ProtocolLibrary/]: [ProtocolLib] Disabling ProtocolLib v3.7.0-BETA
+[20:29:59] [Server thread/INFO] [com.qq.q1277832129.custompoint.Main/]: [CustomPoint] Disabling CustomPoint v1.0.0
+[20:29:59] [Server thread/INFO] [/]: 插件关闭成功
+[20:29:59] [Server thread/INFO] [com.zelnehlun.betterpvp.BetterPvP/]: [BetterPvP] Disabling BetterPvP v1.0.7
+[20:29:59] [Server thread/INFO] [com.sleelin.pvptoggle.PvPToggle/]: [PvPToggle] Disabling PvPToggle v3.0.0
+[20:29:59] [Server thread/INFO] [Minecraft/]: [PvPToggle] Disabled
+[20:29:59] [Server thread/INFO] [me.dpohvar.powernbt.PowerNBT/]: [PowerNBT] Disabling PowerNBT v0.8.9.2
+[20:29:59] [Server thread/INFO] [com.plotsquared.bukkit.BukkitMain/]: [PlotSquared] Disabling PlotSquared v3.5.0-SNAPSHOT-95f8aaa
+[20:29:59] [Server thread/INFO] [/]: All DB transactions during this session are being validated (This may take a while if corrections need to be made)
+[20:29:59] [Server thread/INFO] [Deadhunger.KV4M/]: [DeadHunger] Disabling DeadHunger v0.1
+[20:29:59] [Server thread/INFO] [Deadhunger.KV4M/]: [DeadHunger] DeadHunger Unload
+[20:29:59] [Server thread/INFO] [org.anjocaido.groupmanager.GroupManager/]: [GroupManager] Disabling GroupManager v2.0 (2.12.1) (Phoenix)
+[20:29:59] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[20:29:59] [Server thread/INFO] [/]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[20:29:59] [Server thread/INFO] [/]: GroupManager version 2.0 (2.12.1) (Phoenix) is disabled!
+[20:29:59] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Disabling Essentials vPre2.14.1.3
+[20:29:59] [Server thread/INFO] [Essentials/]: Essentials: Using config file enhanced permissions.
+[20:29:59] [Server thread/INFO] [Essentials/]: Permissions listed in as player-commands will be given to all users.
+[20:29:59] [Server thread/INFO] [com.caizhong3.worldfly/]: [worldfly] Disabling worldfly v1.0
+[20:29:59] [Server thread/INFO] [cn.jiongjionger.AutoSwitchTools.Main/]: [AutoSwitchTools] Disabling AutoSwitchTools v1.0
+[20:29:59] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] Disabling BeeSwitch v1.0-RELEASE
+[20:29:59] [Server thread/INFO] [cn.beecraft.beeswitch.BeeSwitch/]: [BeeSwitch] 蜜蜂切换已经卸载
+[20:29:59] [Server thread/INFO] [com.mcjtf.SafeLogin.Main/]: [SafeLogin] Disabling SafeLogin v1.1.0
+[20:29:59] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Disabling WorldEdit v5.6.3
+[20:29:59] [Server thread/INFO] [shend.ShendHealth/]: [ShendHealth] Disabling ShendHealth v1.0.0
+[20:29:59] [Server thread/INFO] [Minecraft/]: ShendHealth 成功注销!
+[20:30:00] [Server thread/INFO] [FML/]: Unloading dimension 0
+[20:30:00] [Server thread/INFO] [FML/]: Unloading dimension -1
+[20:30:00] [Server thread/INFO] [FML/]: Applying holder lookups
+[20:30:00] [Server thread/INFO] [FML/]: Holder lookups applied

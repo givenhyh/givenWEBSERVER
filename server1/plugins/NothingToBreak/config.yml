@@ -1,0 +1,7 @@
+#BannedWorld
+World:
+ - ceshi
+ - world
+ - bannedworld
+Interact:
+ - ceshi

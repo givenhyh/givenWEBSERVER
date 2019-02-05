@@ -1,0 +1,98 @@
+[20:49:35] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[20:49:35] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[20:49:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[20:49:35] [main/INFO]: Forge Mod Loader version 7.99.4.1614 for Minecraft 1.7.10 loading
+[20:49:37] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_181, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_181
+[20:49:37] [main/INFO]: [pw.prok.imagine.ImagineLoadingPlugin:<clinit>:26]: Loading plugin initialized!
+[20:49:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:49:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:49:37] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:49:37] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:49:37] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:49:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:49:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:49:39] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[20:49:39] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[20:49:39] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[20:49:40] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:49:48] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[20:49:48] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[20:49:48] [Server thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[20:49:48] [Server thread/INFO]: Replaced 183 ore recipies
+[20:49:48] [Server thread/INFO]: Completed early MinecraftForge initialization
+[20:49:48] [Server thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:49:48] [Server thread/INFO]: Searching C:\Users\Administrator\Documents\GitHub\givenWEBSERVER\server1\mods for mods
+[20:49:49] [Server thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[20:49:49] [Server thread/INFO]: FML has found a non-mod file CustomNPCs_1.12.0(22jul17)beta.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:49:49] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at CLIENT
+[20:49:49] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, kimagine] at SERVER
+[20:49:49] [Server thread/INFO]: Processing ObjectHolder annotations
+[20:49:49] [Server thread/INFO]: Found 341 ObjectHolder annotations
+[20:49:49] [Server thread/INFO]: Identifying ItemStackHolder annotations
+[20:49:49] [Server thread/INFO]: Found 0 ItemStackHolder annotations
+[20:49:49] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[20:49:49] [Server thread/INFO]: Applying holder lookups
+[20:49:49] [Server thread/INFO]: Holder lookups applied
+[20:49:49] [Server thread/INFO]: Injecting itemstacks
+[20:49:49] [Server thread/INFO]: Itemstack injection complete
+[20:49:49] [Server thread/INFO]: Loading properties
+[20:49:49] [Server thread/INFO]: Default game type: SURVIVAL
+[20:49:50] [Server thread/INFO]: This server is running KCauldron version 1.7.10-R0.1-SNAPSHOT (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[20:49:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:49:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:49:50] [Server thread/INFO]: Generating keypair
+[20:49:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:49:50] [Server thread/INFO]: Injecting itemstacks
+[20:49:50] [Server thread/INFO]: Itemstack injection complete
+[20:49:50] [Server thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[20:49:50] [Server thread/INFO]: Preparing level "world"
+[20:49:50] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
+[20:49:50] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
+[20:49:50] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
+[20:49:50] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
+[20:49:50] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
+[20:49:50] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
+[20:49:50] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
+[20:49:50] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
+[20:49:50] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
+[20:49:50] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
+[20:49:51] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[20:49:51] [Server thread/INFO]: Applying holder lookups
+[20:49:51] [Server thread/INFO]: Holder lookups applied
+[20:49:51] [Server thread/ERROR]: Could not load 'plugins\[²å¼þ-ÇåÀí]CatClearLag-0.8.3.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:188) ~[JavaPluginLoader.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [SimplePluginManager.class:1.7.10-R0.1-SNAPSHOT]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugins(CraftServer.java:320) [CraftServer.class:1.7.10-R0.1-SNAPSHOT]
+	at net.minecraft.world.storage.SaveHandler.initBukkitData(SaveHandler.java:461) [ayq.class:?]
+	at net.minecraft.world.storage.SaveHandler.func_75757_d(SaveHandler.java:137) [ayq.class:?]
+	at net.minecraft.world.World.<init>(World.java:360) [ahb.class:?]
+	at net.minecraft.world.WorldServer.<init>(WorldServer.java:160) [mt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:367) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:336) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:631) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_181]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 11 more
+[20:49:52] [Server thread/INFO]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[20:49:52] [Server thread/INFO]: Loaded inheritance map of 895 classes
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:49:52] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:49:52] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:49:52] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:49:52] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:49:52] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:49:52] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: =============================================================
+[20:49:52] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:49:52] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[20:49:52] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[20:49:52] [Server thread/WARN]: =============================================================
